@@ -1,0 +1,30 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path id="textPathTop" d="M 40 100 A 60 60 0 0 1 160 100" />
+  </defs>
+  <circle cx="100" cy="100" r="90" fill="#1565C0" />
+  <g fill="#1565C0">
+    <circle cx="100" cy="20" r="12" />
+    <circle cx="146" cy="32" r="12" />
+    <circle cx="176" cy="70" r="12" />
+    <circle cx="186" cy="112" r="12" />
+    <circle cx="176" cy="150" r="12" />
+    <circle cx="146" cy="188" r="12" />
+    <circle cx="100" cy="200" r="12" />
+    <circle cx="54" cy="188" r="12" />
+    <circle cx="24" cy="150" r="12" />
+    <circle cx="14" cy="112" r="12" />
+    <circle cx="24" cy="70" r="12" />
+    <circle cx="54" cy="32" r="12" />
+  </g>
+  <circle cx="100" cy="100" r="62" fill="#FFFFFF" />
+  <g fill="none" stroke="#1565C0" stroke-width="12" stroke-linecap="round">
+    <path d="M 90 70 L 90 110 L 70 110" />
+    <path d="M 70 90 L 110 90 L 110 70" />
+    <path d="M 110 90 L 110 130 L 130 130" />
+    <path d="M 130 110 L 90 110" />
+  </g>
+  <text font-family="Poppins, sans-serif" font-size="14" fill="#1565C0">
+    <textPath href="#textPathTop" startOffset="50%" text-anchor="middle">వెంకటేశ్వర బీడీ పూన</textPath>
+  </text>
+</svg>
